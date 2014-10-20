@@ -12,5 +12,5 @@ MIT: [http://greystate.mit-license.org][MIT]
 
 [TM2]: http://macromates.com/
 [KIT]: http://incident57.com/codekit/help.html#kit
-[ISSUES]: issues/
+[ISSUES]: http://github.com/greystate/kit-tmbundle/issues
 [MIT]: http://greystate.mit-license.org
