@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;!-- \$${1:pageTitle}: ${2:We're rolling!} --&gt;</string>
+	<key>name</key>
+	<string>Declare variable</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>var</string>
+	<key>uuid</key>
+	<string>F6D11D7E-6E6B-4875-970A-BDEB4DBF96C0</string>
+</dict>
+</plist>
