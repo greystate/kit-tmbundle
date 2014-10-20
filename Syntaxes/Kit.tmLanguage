@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fileTypes</key>
+	<array>
+		<string>kit</string>
+	</array>
+	<key>keyEquivalent</key>
+	<string>^~K</string>
+	<key>name</key>
+	<string>Kit</string>
+	<key>patterns</key>
+	<array>
+		<dict>
+			<key>include</key>
+			<string>text.html.basic</string>
+		</dict>
+	</array>
+	<key>scopeName</key>
+	<string>text.html.kit</string>
+	<key>uuid</key>
+	<string>2E412349-EA07-4A91-A1FC-FAD8B8DB51D5</string>
+</dict>
+</plist>

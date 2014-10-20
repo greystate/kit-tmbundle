@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fileTypes</key>
+	<array/>
+	<key>injectionSelector</key>
+	<string>comment.block.html</string>
+	<key>name</key>
+	<string>Kit Variable</string>
+	<key>patterns</key>
+	<array>
+		<dict>
+			<key>match</key>
+			<string>\$[a-zA-Z][a-zA-Z0-9_-]+</string>
+			<key>name</key>
+			<string>variable</string>
+		</dict>
+	</array>
+	<key>scopeName</key>
+	<string>variable.kit</string>
+	<key>uuid</key>
+	<string>D4F9A70E-33A7-4574-94D3-076ACDBD3190</string>
+</dict>
+</plist>
